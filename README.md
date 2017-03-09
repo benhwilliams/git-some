@@ -1,0 +1,2 @@
+# git-some
+Git training
